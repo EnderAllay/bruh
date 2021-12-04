@@ -1,0 +1,13 @@
+body{
+ color: rgb(111, 111, 8);  
+ background: cadetblue; 
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_objects{
+    color: darkslategrey;
+}
